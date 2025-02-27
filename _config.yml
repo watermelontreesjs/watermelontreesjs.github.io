@@ -22,7 +22,7 @@ repository               : "watermelontreesjs/watermelontreesjs.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Identification Photo.png"
+  avatar           : "Identification_Photo.png"
   name             : "Jinsheng Song 宋金生"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate @ Tsinghua University"
